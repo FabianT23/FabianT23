@@ -1,6 +1,6 @@
 <h1>Hi, I'm Fabian! <br/>
 
-<h2>👨‍💻 Information Security Projects:</h2>
+<h2>👨‍💻 Active Directory and Arduino Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/FabianT23/Active-directory-project/tree/main)
   
