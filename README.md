@@ -4,9 +4,6 @@
 
   - [Active Directory Home Lab](https://github.com/FabianT23/Active-directory-project/tree/main)
   - [Hello World!](https://github.com/joshmadakor1/Algorithms-Practice)
-<h2>📄 Certifications</h2>
-
-- [Google IT Support Professional](https://www.youtube.com/watch?v=a83ASGn_V_s)
   
 
 
